@@ -1,0 +1,19 @@
+{
+  "Attijariwafa Bank": {
+    "logo": "assets/img.png",
+    "name": "Attijariwafa Bank",
+    "Location": "31, Avenue Léopold Sédar Senghor – BP 32 003 Dakar Ponty",
+    "email": "",
+    "website": "https://www.attijariwafabank.com/fr",
+    "phone1": "338899898",
+    "phone2": "338234857"
+  },
+  "Banque Africaine de Développement (BAD)": {
+    "logo": "assets/img_1.png",
+    "name": "Banque Africaine de Développement (BAD)",
+    "Location": "",
+    "email": "",
+    "website": "https://www.afdb.org/fr",
+    "phone1": ""
+  }
+}
